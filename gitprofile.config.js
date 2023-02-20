@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'David-Hackro', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -47,18 +47,32 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Zigatta',
+      position: 'Mobile Engineer',
+      from: 'Dec 2021',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://zigatta.com/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Rappi',
+      position: 'Mobile Engineer',
+      from: 'Jun 2020',
+      to: 'Dec 2021',
+      companyLink: 'https://www.rappi.com/',
+    },
+    {
+      company: 'Segunda mano',
+      position: 'Mobile Engineer',
+      from: 'Dec 2018',
+      to: 'Apr 2020',
+      companyLink: 'https://www.segundamano.mx/',
+    },
+    {
+      company: 'Reservamos',
+      position: 'Mobile Engineer',
+      from: 'Mar 2017',
+      to: 'Nov 2018',
+      companyLink: 'https://www.reservamos.mx/',
     },
   ],
   /* certifications: [
@@ -71,34 +85,35 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
-    },
+      institution: 'Universidad Tecnológica De Puebla',
+      degree: 'bachelor of science technology',
+      from: '2013',
+      to: '2017',
+    }
   ],
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Rappi',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'Rappi is a technology company that builds a marketplace where local commerce in Latin America can thrive. Learn more.',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://play.google.com/store/apps/details?id=com.grability.rappi',
     },
     {
-      title: 'Project Name',
+      title: 'Segunda Mano',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'Segundamano is the largest classifieds site in the Mexican market, bringing together the best sellers and buyers to make great deals.',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://play.google.com/store/apps/details?id=mx.segundamano.android',
+    },
+    {
+      title: 'Reservamos',
+      description:
+        'Reservamos is the #1 app to compare and buy your bus tickets in Mexico, and now you can also book your hotel.',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://play.google.com/store/apps/details?id=com.reservamos.viajes',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
@@ -116,7 +131,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'dark',
+    defaultTheme: 'lofi',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
