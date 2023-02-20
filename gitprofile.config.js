@@ -24,7 +24,16 @@ const config = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   
-  skills: [
+  pragmatic skills: [
+  'Code guidelines',
+ 'Documentation',
+ 'Algorithms',
+ 'Bugs resolution',
+ 'Code review',
+ 'Build release',
+ 'Clean Architecture',
+  ],
+   skills: [
     'Kotlin',
     'Scriptin',
     'Android Jetpack',
