@@ -15,7 +15,7 @@ const config = {
     twitter: 'DavidHackro',
     instagram: 'davidhackro',
     stackoverflow: 'userid/david-hackro', // format: userid/username
-    //website: 'https://arifszn.com',
+    youtube: 'https://www.youtube.com/@tutorialeshackro',
     phone: '',
     email: 'hackro91@gmail.com',
   },
@@ -46,9 +46,8 @@ const config = {
 'Code guidelines',
  'Documentation',
  'Algorithms',
- 'Bugs resolution',
  'Code review',
- 'Build release',
+ 'CI/CD',
   'Clean Architecture',
   ],
   experiences: [
