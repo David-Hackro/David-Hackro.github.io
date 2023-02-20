@@ -15,14 +15,14 @@ const config = {
     twitter: 'DavidHackro',
     instagram: 'davidhackro',
     stackoverflow: 'userid/david-hackro', // format: userid/username
-    website: 'https://arifszn.com',
+    //website: 'https://arifszn.com',
     phone: '',
     email: 'hackro91@gmail.com',
   },
-  resume: {
+  /*resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
-  },
+  },*/
  
    skills: [
     'Kotlin',
