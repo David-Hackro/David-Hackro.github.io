@@ -11,41 +11,39 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    facebook: '',
-    instagram: '',
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // format: userid/username
-    skype: '',
-    telegram: '',
+    linkedin: 'davidhackro',
+    twitter: 'DavidHackro',
+    instagram: 'davidhackro',
+    stackoverflow: 'userid/david-hackro', // format: userid/username
     website: 'https://arifszn.com',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'hackro91@gmail.com',
   },
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
+  
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Kotlin',
+    'Scriptin',
+    'Android Jetpack',
+    'Java',
+    'Dependency Injection',
+    'Dagger',
+    'Koin',
+    'Hilt',
+    'Async',
+    'RX-Java',
+    'Coroutines',
+    'Patterns',
+    'MMVM',
+    'MVC',
+    'MVP',
+    'Repository',
+    'Observer',
+    'Singleton',
+    'Clean Architecture',
   ],
   experiences: [
     {
@@ -118,7 +116,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'winter',
+    defaultTheme: 'dark',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
