@@ -121,6 +121,13 @@ const config = {
       imageUrl: 'https://play-lh.googleusercontent.com/buvhADJJ9J4iMd6HYULH0_rCUc82udoAkBnrBpEvRHIgz2JemVJq5tG9LWwzGV4uUet4=w480-h960-rw',
       link: 'https://play.google.com/store/apps/details?id=com.reservamos.viajes',
     },
+    {
+      title: 'Eleonor',
+      description:
+        'Eleonor is the software that has the necessary tools to help you increase and coordinate the care you give to your patients, maintaining continuous communication.',
+      imageUrl: 'https://play-lh.googleusercontent.com/lPl8fMwwxVNjLPMAF5ZAl-3XEMtbsAVj6by2QREg5jCtS2u3ua_AM41pMKJ1apAxfJJQ=w480-h960-rw',
+      link: 'https://play.google.com/store/apps/details?id=com.overcome.Help&hl=es_MX',
+    },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   /*blog: {
