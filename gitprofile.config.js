@@ -1,6 +1,37 @@
 // gitprofile.config.js
 
 const config = {
+   // To hide the `My Projects` section, keep it empty.
+  externalProjects: [
+    {
+      title: 'Rappi',
+      description:
+        'Rappi is a technology company that builds a marketplace where local commerce in Latin America can thrive. Learn more.',
+      imageUrl: 'https://play-lh.googleusercontent.com/zzlIRBWzuMrXkt6USMcpye4rr6pttg3Asj5tuXt0kQ4xPvCCgwZz4tBtAI6ws4v2MhU=w480-h960-rw',
+      link: 'https://play.google.com/store/apps/details?id=com.grability.rappi',
+    },
+    {
+      title: 'Segunda Mano',
+      description:
+        'Segundamano is the largest classifieds site in the Mexican market, bringing together the best sellers and buyers to make great deals.',
+      imageUrl: 'https://play-lh.googleusercontent.com/YL723oXPwpq6ld30mCB4dNFqspSGe_TDFmTak3JgCy8WS48WKrHq-do9wHzjchVecw=s96-rw',
+      link: 'https://play.google.com/store/apps/details?id=mx.segundamano.android',
+    },
+    {
+      title: 'Reservamos',
+      description:
+        'Reservamos is the #1 app to compare and buy your bus tickets in Mexico, and now you can also book your hotel.',
+      imageUrl: 'https://play-lh.googleusercontent.com/buvhADJJ9J4iMd6HYULH0_rCUc82udoAkBnrBpEvRHIgz2JemVJq5tG9LWwzGV4uUet4=w480-h960-rw',
+      link: 'https://play.google.com/store/apps/details?id=com.reservamos.viajes',
+    },
+    {
+      title: 'Eleonor',
+      description:
+        'Eleonor is the software that has the necessary tools to help you increase and coordinate the care you give to your patients, maintaining continuous communication.',
+      imageUrl: 'https://play-lh.googleusercontent.com/lPl8fMwwxVNjLPMAF5ZAl-3XEMtbsAVj6by2QREg5jCtS2u3ua_AM41pMKJ1apAxfJJQ=w480-h960-rw',
+      link: 'https://play.google.com/store/apps/details?id=com.overcome.Help&hl=es_MX',
+    },
+  ],
   github: {
     username: 'David-Hackro', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
@@ -95,38 +126,6 @@ const config = {
       from: '2013',
       to: '2017',
     }
-  ],
-
-  // To hide the `My Projects` section, keep it empty.
-  externalProjects: [
-    {
-      title: 'Rappi',
-      description:
-        'Rappi is a technology company that builds a marketplace where local commerce in Latin America can thrive. Learn more.',
-      imageUrl: 'https://play-lh.googleusercontent.com/zzlIRBWzuMrXkt6USMcpye4rr6pttg3Asj5tuXt0kQ4xPvCCgwZz4tBtAI6ws4v2MhU=w480-h960-rw',
-      link: 'https://play.google.com/store/apps/details?id=com.grability.rappi',
-    },
-    {
-      title: 'Segunda Mano',
-      description:
-        'Segundamano is the largest classifieds site in the Mexican market, bringing together the best sellers and buyers to make great deals.',
-      imageUrl: 'https://play-lh.googleusercontent.com/YL723oXPwpq6ld30mCB4dNFqspSGe_TDFmTak3JgCy8WS48WKrHq-do9wHzjchVecw=s96-rw',
-      link: 'https://play.google.com/store/apps/details?id=mx.segundamano.android',
-    },
-    {
-      title: 'Reservamos',
-      description:
-        'Reservamos is the #1 app to compare and buy your bus tickets in Mexico, and now you can also book your hotel.',
-      imageUrl: 'https://play-lh.googleusercontent.com/buvhADJJ9J4iMd6HYULH0_rCUc82udoAkBnrBpEvRHIgz2JemVJq5tG9LWwzGV4uUet4=w480-h960-rw',
-      link: 'https://play.google.com/store/apps/details?id=com.reservamos.viajes',
-    },
-    {
-      title: 'Eleonor',
-      description:
-        'Eleonor is the software that has the necessary tools to help you increase and coordinate the care you give to your patients, maintaining continuous communication.',
-      imageUrl: 'https://play-lh.googleusercontent.com/lPl8fMwwxVNjLPMAF5ZAl-3XEMtbsAVj6by2QREg5jCtS2u3ua_AM41pMKJ1apAxfJJQ=w480-h960-rw',
-      link: 'https://play.google.com/store/apps/details?id=com.overcome.Help&hl=es_MX',
-    },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   /*blog: {
