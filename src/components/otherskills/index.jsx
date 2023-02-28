@@ -26,7 +26,7 @@ const Software = ({ loading, softwares }) => {
                   skeleton({ width: 'w-32', height: 'h-8' })
                 ) : (
                   <span className="text-base-content opacity-70">
-                    Android Stack
+                    Software Stack
                   </span>
                 )}
               </h5>
