@@ -42,7 +42,7 @@ const config = {
     'MVI',
     'Clean Architecture',
 ], 
-otherSkills: [
+softwares: [
   'Scriptin',
   'Repository Pattern',
   'Observer Pattern',
