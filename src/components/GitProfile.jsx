@@ -184,7 +184,7 @@ const GitProfile = ({ config }) => {
                       />
                       <OtherSkill
                         loading={loading}
-                        othersSkill={sanitizedConfig.skills}
+                        othersSkill={sanitizedConfig.softwares}
                       />
                       <Experience
                         loading={loading}
@@ -269,7 +269,7 @@ GitProfile.propTypes = {
       fileUrl: PropTypes.string,
     }),
     skills: PropTypes.array,
-    othersSkill: PropTypes.array,
+    softwares: PropTypes.array,
     externalProjects: PropTypes.arrayOf(
       PropTypes.shape({
         title: PropTypes.string.isRequired,
