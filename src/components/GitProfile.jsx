@@ -158,12 +158,12 @@ const GitProfile = ({ config }) => {
                   <div className="col-span-1">
                     <div className="grid grid-cols-1 gap-6">
                       {!sanitizedConfig.themeConfig.disableSwitch && (
-                        <ThemeChanger
+                        <!-- ThemeChanger
                           theme={theme}
                           setTheme={setTheme}
                           loading={loading}
                           themeConfig={sanitizedConfig.themeConfig}
-                        />
+                        / -->
                       )}
                       <AvatarCard
                         profile={profile}
