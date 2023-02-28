@@ -13,12 +13,12 @@ const config = {
   },
   social: {
     linkedin: 'davidhackro',
-    twitter: 'DavidHackro',
-    instagram: 'davidhackro',
+    //twitter: 'DavidHackro',
+    //instagram: 'davidhackro',
     stackoverflow: 'userid/david-hackro', // format: userid/username
-    youtube: 'https://www.youtube.com/@tutorialeshackro',
-    phone: '',
-    email: 'hackro91@gmail.com',
+    //youtube: 'https://www.youtube.com/@tutorialeshackro',
+    //phone: '',
+    //email: 'hackro91@gmail.com',
   },
   /*resume: {
     fileUrl:
