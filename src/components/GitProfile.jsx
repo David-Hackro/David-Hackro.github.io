@@ -12,7 +12,7 @@ import Education from './education';
 import Project from './project';
 import Blog from './blog';
 import Footer from './footer';
-import OtherSkills from './otherskills';
+import OtherSkill from './otherskills';
 import {
   genericError,
   getInitialTheme,
@@ -182,7 +182,7 @@ const GitProfile = ({ config }) => {
                         loading={loading}
                         skills={sanitizedConfig.skills}
                       />
-                      <OtherSkills
+                      <OtherSkill
                         loading={loading}
                         othersSkill={sanitizedConfig.othersSkill}
                       />
