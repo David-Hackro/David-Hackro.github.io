@@ -182,9 +182,9 @@ const GitProfile = ({ config }) => {
                         loading={loading}
                         skills={sanitizedConfig.skills}
                       />
-                      <OtherSkill
+                      <!OtherSkill
                         loading={loading}
-                        skills={sanitizedConfig.otherSkills}
+                        othersSkills={sanitizedConfig.otherSkills}
                       />
                       <Experience
                         loading={loading}
