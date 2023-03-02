@@ -86,6 +86,13 @@ softwares: [
       to: 'Nov 2018',
       companyLink: 'https://www.reservamos.mx/',
     },
+    {
+      company: 'Secretaría de Finanzas y Administración',
+      position: 'Mobile Engineer',
+      from: 'Nov 2015',
+      to: 'Jan 2017',
+      companyLink: 'https://www.reservamos.mx/',
+    },
   ],
    externalProjects: [
     {
