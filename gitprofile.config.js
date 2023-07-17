@@ -124,6 +124,28 @@ softwares: [
       link: 'https://play.google.com/store/apps/details?id=com.overcome.Help&hl=es_MX',
     },
   ],
+   communityProjects: [
+    {
+      title: 'Youtube Channel',
+      description:'Channel that has the purpose of teaching software through tutorials and videos in general',
+      imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png',
+      link: 'https://www.youtube.com/channel/UClxVhu_GAuKJO7RSM-JAdtw',
+    },
+      {
+      title: 'Android Dev Podcast',
+      description:'Podcast about android environment',
+      imageUrl: 'https://pbs.twimg.com/profile_images/1193191513326374912/QeHXipnB_400x400.jpg',
+      link: 'https://open.spotify.com/show/1gqGqMNVvprvfCoPC023Ml?si=a3aa0d878451424a',
+    },
+   {
+      title: 'Tiktok',
+      description:'Videos about technical questions of software in gral',
+      imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/f/ff/TikTok.png',
+      link: 'https://www.tiktok.com/@davidhackro',
+    },
+   
+   
+  ],
   /* certifications: [
     {
       name: 'Lorem ipsum',
