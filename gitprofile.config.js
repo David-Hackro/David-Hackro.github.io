@@ -143,8 +143,6 @@ softwares: [
       imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/f/ff/TikTok.png',
       link: 'https://www.tiktok.com/@davidhackro',
     },
-   
-   
   ],
   /* certifications: [
     {
