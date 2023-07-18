@@ -142,7 +142,7 @@ const CommunityProject = ({ communityProjects, loading, googleAnalytics }) => {
                         skeleton({ width: 'w-40', height: 'h-8' })
                       ) : (
                         <span className="text-base-content opacity-70">
-                          My Projects
+                          Community Projects
                         </span>
                       )}
                     </h5>
