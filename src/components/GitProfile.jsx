@@ -27,6 +27,7 @@ import PropTypes from 'prop-types';
 import '../assets/index.css';
 import { formatDistance } from 'date-fns';
 import ExternalProject from './external-project';
+import CommunityProject from './community-project';
 
 const bgColor = 'bg-base-300';
 
@@ -213,6 +214,11 @@ const GitProfile = ({ config }) => {
                         github={sanitizedConfig.github}
                         googleAnalytics={sanitizedConfig.googleAnalytics}
                       />
+                      <CommunityProject
+                        loading={loading}
+                        communityProjects={sanitizedConfig.communityProjects}
+                        googleAnalytics={sanitizedConfig.googleAnalytics}
+                      />
                       <Blog
                         loading={loading}
                         googleAnalytics={sanitizedConfig.googleAnalytics}
@@ -271,6 +277,14 @@ GitProfile.propTypes = {
     skills: PropTypes.array,
     softwares: PropTypes.array,
     externalProjects: PropTypes.arrayOf(
+      PropTypes.shape({
+        title: PropTypes.string.isRequired,
+        description: PropTypes.string.isRequired,
+        link: PropTypes.string.isRequired,
+        imageUrl: PropTypes.string,
+      })
+    ),
+    communityProjects: PropTypes.arrayOf(
       PropTypes.shape({
         title: PropTypes.string.isRequired,
         description: PropTypes.string.isRequired,
