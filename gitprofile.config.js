@@ -143,6 +143,12 @@ softwares: [
       imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/f/ff/TikTok.png',
       link: 'https://www.tiktok.com/@davidhackro',
     },
+      {
+      title: 'Dev Nigths Podcast',
+      description:'Podcast about a group of technology enthusiasts who meet to talk about different topics, such as programming, frameworks, workflows, tools, etc.',
+      imageUrl: 'https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/f7/28/a4/f728a4a0-dcec-15ba-bc4f-627fd15abd1f/mza_16463326427062445054.jpg/313x0w.webp',
+      link: 'https://open.spotify.com/show/2IWCWKMspLfrpF3jYerthG',
+    },
 
   ],
   /* certifications: [
