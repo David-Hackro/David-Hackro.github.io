@@ -59,10 +59,17 @@ softwares: [
   ],
   experiences: [
     {
+      company: 'Baubap',
+      position: 'Mobile Engineer',
+      from: 'Aug 2023',
+      to: 'Present',
+      companyLink: 'https://www.baubap.com/',
+    },
+    {
       company: 'Zigatta',
       position: 'Mobile Engineer',
       from: 'Dec 2021',
-      to: 'Present',
+      to: 'Jul 2023',
       companyLink: 'https://zigatta.com/',
     },
     {
