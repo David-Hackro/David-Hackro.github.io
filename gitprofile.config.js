@@ -103,6 +103,13 @@ softwares: [
   ],
    externalProjects: [
     {
+      title: 'Baubap',
+      description:
+        'Baubap is a financial entity registered with the CONDUSEF and monitored by the CNBV.',
+      imageUrl: 'https://media.licdn.com/dms/image/D560BAQE43kGH4dMH6Q/company-logo_200_200/0/1697239221232/baubap_logo?e=2147483647&v=beta&t=CPKwfhtG5kPZSbvvk3jyq0heT5-zaC4oN3SDHYxLwxs',
+      link: 'https://play.google.com/store/apps/details?id=com.baubap',
+    },
+    {
       title: 'Rappi',
       description:
         'Rappi is a technology company that builds a marketplace where local commerce in Latin America can thrive. Learn more.',
@@ -147,7 +154,7 @@ softwares: [
    {
       title: 'Tiktok',
       description:'Videos about technical questions of software in gral',
-      imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/f/ff/TikTok.png',
+      imageUrl:'https://sf-static.tiktokcdn.com/obj/eden-sg/uhtyvueh7nulogpoguhm/tiktok-icon2.png',
       link: 'https://www.tiktok.com/@davidhackro',
     },
       {
