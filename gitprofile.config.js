@@ -6,9 +6,9 @@ const config = {
     username: 'David-Hackro', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 6, // How many projects to display.
-    exclude: {
+    exclude: { 
       forks: false, // Forked projects will not be displayed if set to true.
-      projects: ['streaming-ffmeg', 'android-best-practices', ], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+      projects: ['streaming-ffmeg', 'android-best-practices', 'Codigo-Facilito-JEE', 'ExamplesAndroid', 'AndroidTutorials', 'Deividcoptero-SQLSERVER' ], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
@@ -140,6 +140,18 @@ softwares: [
   ],
    communityProjects: [
    {
+      title: 'Tiktok',
+      description:'Videos about technical questions and software',
+      imageUrl:'https://sf-static.tiktokcdn.com/obj/eden-sg/uhtyvueh7nulogpoguhm/tiktok-icon2.png',
+      link: 'https://www.tiktok.com/@davidhackro',
+    },
+      {
+      title: 'Twitch',
+      description:'',
+      imageUrl: 'https://github.com/David-Hackro/David-Hackro/assets/4633870/8103d4db-d636-4dfa-a49d-ac985343b4c3',
+      link: 'https://www.twitch.tv/david_hackro',
+    },
+    {
       title: 'Android Dev Podcast',
       description:'Podcast about android environment',
       imageUrl: 'https://pbs.twimg.com/profile_images/1193191513326374912/QeHXipnB_400x400.jpg',
@@ -151,19 +163,6 @@ softwares: [
       imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png',
       link: 'https://www.youtube.com/channel/UClxVhu_GAuKJO7RSM-JAdtw',
     },
-   {
-      title: 'Tiktok',
-      description:'Videos about technical questions of software in gral',
-      imageUrl:'https://sf-static.tiktokcdn.com/obj/eden-sg/uhtyvueh7nulogpoguhm/tiktok-icon2.png',
-      link: 'https://www.tiktok.com/@davidhackro',
-    },
-      {
-      title: 'Dev Nigths Podcast',
-      description:'Podcast about a group of technology enthusiasts who meet to talk about different topics, such as programming, frameworks, workflows, tools, etc.',
-      imageUrl: 'https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/f7/28/a4/f728a4a0-dcec-15ba-bc4f-627fd15abd1f/mza_16463326427062445054.jpg/313x0w.webp',
-      link: 'https://open.spotify.com/show/2IWCWKMspLfrpF3jYerthG',
-    },
-
   ],
   /* certifications: [
     {
