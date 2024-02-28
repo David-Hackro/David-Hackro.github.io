@@ -147,7 +147,7 @@ softwares: [
     },
       {
       title: 'Twitch',
-      description:'',
+      description:'Videos about DSA training and software',
       imageUrl: 'https://github.com/David-Hackro/David-Hackro/assets/4633870/8103d4db-d636-4dfa-a49d-ac985343b4c3',
       link: 'https://www.twitch.tv/david_hackro',
     },
