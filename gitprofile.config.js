@@ -7,8 +7,8 @@ const config = {
     sortBy: 'stars', // stars | updated
     limit: 6, // How many projects to display.
     exclude: { 
-      forks: false, // Forked projects will not be displayed if set to true.
-      projects: ['streaming-ffmeg', 'android-best-practices', 'Codigo-Facilito-JEE', 'ExamplesAndroid','Deividcoptero-SQLSERVER', 'AndroidTutorials', 'androidmvp', 'java-code-styles', 'David-Hackro.github.io', 'David-Hackro/streaming-ffmeg' ], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+      forks: true, // Forked projects will not be displayed if set to true.
+      projects: ['streaming-ffmeg', 'android-best-practices', 'Codigo-Facilito-JEE', 'ExamplesAndroid','Deividcoptero-SQLSERVER', 'AndroidTutorials', 'androidmvp', 'java-code-styles', 'David-Hackro.github.io', 'David-Hackro/streaming-ffmeg', 'coding-interview-university' ], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
