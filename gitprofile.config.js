@@ -8,7 +8,7 @@ const config = {
     limit: 6, // How many projects to display.
     exclude: { 
       forks: false, // Forked projects will not be displayed if set to true.
-      projects: ['streaming-ffmeg', 'android-best-practices', 'Codigo-Facilito-JEE', 'ExamplesAndroid', 'Deividcoptero-SQLSERVER' ], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+      projects: ['streaming-ffmeg', 'android-best-practices', 'Codigo-Facilito-JEE', 'ExamplesAndroid','Deividcoptero-SQLSERVER' ], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
@@ -62,7 +62,7 @@ softwares: [
       company: 'Baubap',
       position: 'Mobile Engineer',
       from: 'Aug 2023',
-      to: 'Present',
+      to: '2024',
       companyLink: 'https://www.baubap.com/',
     },
     {
@@ -102,6 +102,13 @@ softwares: [
     },
   ],
    externalProjects: [
+    {
+      title: 'Hearsay',
+      description:
+        'Hearsay empowers distributed financial services teams to authentically and intelligently engage with customers through compliant social media.',
+      imageUrl: 'https://avatars.githubusercontent.com/u/633032?s=200&v=4',
+      link: 'https://www.hearsaysystems.com/',
+    },
     {
       title: 'Baubap',
       description:
