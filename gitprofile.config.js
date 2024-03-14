@@ -102,13 +102,13 @@ softwares: [
     },
   ],
    externalProjects: [
-    {
+/*    {
       title: 'Hearsay',
       description:
         'Hearsay empowers distributed financial services teams to authentically and intelligently engage with customers through compliant social media.',
       imageUrl: 'https://play-lh.googleusercontent.com/F1oglp0b3zKJubLbBx_MQgog4SjcRcEffZ5b0C1LhdhSHJzsyHc49SxgZNZ7uevxRVc=w240-h480-rw',
       link: 'https://www.hearsaysystems.com/',
-    },
+    },*/
     {
       title: 'Baubap',
       description:
