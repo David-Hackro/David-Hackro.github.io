@@ -61,8 +61,15 @@ softwares: [
     {
       company: 'Baubap',
       position: 'Mobile Engineer',
+      from: 'March 2023',
+      to: 'Current',
+      companyLink: 'https://www.hearsaysystems.com/',
+    },
+    {
+      company: 'Baubap',
+      position: 'Mobile Engineer',
       from: 'Aug 2023',
-      to: '2024',
+      to: 'Jan 2024',
       companyLink: 'https://www.baubap.com/',
     },
     {
@@ -102,13 +109,13 @@ softwares: [
     },
   ],
    externalProjects: [
-/*    {
+    {
       title: 'Hearsay',
       description:
         'Hearsay empowers distributed financial services teams to authentically and intelligently engage with customers through compliant social media.',
       imageUrl: 'https://play-lh.googleusercontent.com/F1oglp0b3zKJubLbBx_MQgog4SjcRcEffZ5b0C1LhdhSHJzsyHc49SxgZNZ7uevxRVc=w240-h480-rw',
       link: 'https://www.hearsaysystems.com/',
-    },*/
+    },
     {
       title: 'Baubap',
       description:
