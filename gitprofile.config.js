@@ -110,6 +110,13 @@ softwares: [
   ],
    externalProjects: [
     {
+      title: 'Hearsay',
+      description:
+        'Hearsay Systems' Client Engagement Platform empowers distributed financial services teams to authentically and intelligently engage with customers to build relationships through compliant social media, texting and local websites.',
+      imageUrl: 'https://cdn.prod.website-files.com/6067ccb3c70bbca98207b0ab/612d9a10be08430004078b93_hearsay-logo-color-120px.svg',
+      link: 'https://play.google.com/store/apps/details?id=com.hearsaysocial.messages&hl=en',
+    },
+      {
       title: 'Baubap',
       description:
         'Baubap is a financial entity registered with the CONDUSEF and monitored by the CNBV.',
