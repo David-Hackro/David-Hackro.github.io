@@ -113,7 +113,7 @@ softwares: [
       title: 'Hearsay',
       description:
         'Hearsay Systems Client Engagement Platform empowers distributed financial services teams to authentically and intelligently engage with customers to build relationships through compliant social media, texting and local websites.',
-      imageUrl: 'https://cdn.prod.website-files.com/6067ccb3c70bbca98207b0ab/612d9a10be08430004078b93_hearsay-logo-color-120px.svg',
+      imageUrl: 'https://play-lh.googleusercontent.com/F1oglp0b3zKJubLbBx_MQgog4SjcRcEffZ5b0C1LhdhSHJzsyHc49SxgZNZ7uevxRVc=w240-h480-rw',
       link: 'https://play.google.com/store/apps/details?id=com.hearsaysocial.messages&hl=en',
     },
       {
