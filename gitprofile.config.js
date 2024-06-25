@@ -18,7 +18,7 @@ const config = {
     stackoverflow: '3741698/david-hackro', // format: userid/username
     //youtube: 'https://www.youtube.com/@tutorialeshackro',
     //phone: '',
-    //email: 'hackro91@gmail.com',
+    //email: '',
   },
   /*resume: {
     fileUrl:
@@ -59,7 +59,14 @@ softwares: [
   ],
   experiences: [
     {
-      company: 'Baubap ',
+      company: 'Hearsay',
+      position: 'Mobile Engineer',
+      from: 'March 2024',
+      to: 'current',
+      companyLink: 'https://www.hearsaysystems.com/',
+    },
+     {
+      company: 'Baubap',
       position: 'Mobile Engineer',
       from: 'Aug 2023',
       to: 'Jan 2024',
